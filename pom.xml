@@ -85,7 +85,7 @@
     <dependency>
       <groupId>org.webjars</groupId>
       <artifactId>webjars-locator-core</artifactId>
-      <version>0.38-20190208.020033-1</version>
+      <version>${webjars-locator-core.version}</version>
     </dependency>
     <dependency>
       <groupId>org.webjars</groupId>
