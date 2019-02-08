@@ -246,6 +246,11 @@
   </licenses>
 
   <repositories>
+          <repository>
+        <id>nexus-snapshots</id>
+        <name>nexus-snapshots</name>
+        <url>http://192.168.33.10:8081/nexus/content/repositories/snapshots/</url>
+    </repository>
     <repository>
       <id>spring-snapshots</id>
       <name>Spring Snapshots</name>
