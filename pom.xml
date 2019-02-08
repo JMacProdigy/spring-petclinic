@@ -113,7 +113,7 @@
 <distributionManagement>
    <snapshotRepository>
       <id>nexus-snapshots</id>
-      <url>http://http://192.168.33.10:8081/nexus/content/repositories/snapshots</url>
+      <url>http://192.168.33.10:8081/nexus/content/repositories/snapshots</url>
    </snapshotRepository>
 </distributionManagement>
     
@@ -230,7 +230,7 @@
       </executions>
        <configuration>
          <serverId>nexus</serverId>
-         <nexusUrl>http://http://192.168.33.10:8081/nexus/</nexusUrl>
+         <nexusUrl>http://192.168.33.10:8081/nexus/</nexusUrl>
          <skipStaging>true</skipStaging>
        </configuration>
 </plugin>
